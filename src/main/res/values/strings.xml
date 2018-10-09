@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Learning Kotlin and Volley</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Jazz</item>
+        <item>Sufi</item>
+        <item>Bollywood</item>
+        <item>Hollywood</item>
+    </array>
+</resources>
